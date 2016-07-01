@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="976" lt="976" ts="1467329195954" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="11204"/>
+<httpSample t="478" lt="478" ts="1467329196452" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="11267"/>
+<httpSample t="1623" lt="1622" ts="1467329195469" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="11202"/>
+<httpSample t="179" lt="177" ts="1467329196954" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="11218"/>
+<httpSample t="176" lt="175" ts="1467329197454" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="11286"/>
+<httpSample t="181" lt="180" ts="1467329197955" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="11163"/>
+<httpSample t="175" lt="175" ts="1467329198455" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="11202"/>
+<httpSample t="179" lt="177" ts="1467329198954" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="11194"/>
+<httpSample t="182" lt="181" ts="1467329199453" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="11204"/>
+<httpSample t="177" lt="177" ts="1467329199954" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="11195"/>
+<httpSample t="179" lt="177" ts="1467329200454" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="11210"/>
+<httpSample t="177" lt="177" ts="1467329200955" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="11213"/>
+<httpSample t="179" lt="178" ts="1467329201456" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="11213"/>
+<httpSample t="178" lt="177" ts="1467329201957" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="11156"/>
+<httpSample t="179" lt="178" ts="1467329202459" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="11188"/>
+<httpSample t="180" lt="179" ts="1467329202956" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="11197"/>
+<httpSample t="188" lt="187" ts="1467329203456" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="11172"/>
+<httpSample t="177" lt="176" ts="1467329203960" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="11205"/>
+<httpSample t="180" lt="178" ts="1467329204456" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="11215"/>
+<httpSample t="178" lt="177" ts="1467329204960" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="11163"/>
+
+</testResults>
