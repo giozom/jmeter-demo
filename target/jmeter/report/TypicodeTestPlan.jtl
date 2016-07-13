@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="610" lt="610" ts="1468389416200" s="false" lb="GET /posts" rc="403" rm="Forbidden" tn="Typicode Thread Group 1-1" dt="text" by="3767"/>
+<httpSample t="85" lt="85" ts="1468389416939" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-1" dt="text" by="938"/>
+<httpSample t="758" lt="758" ts="1468389417025" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-1" dt="text" by="719"/>
+<httpSample t="23" lt="23" ts="1468389417783" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-1" dt="text" by="2175"/>
+<httpSample t="16" lt="16" ts="1468389418190" s="false" lb="GET /posts" rc="403" rm="Forbidden" tn="Typicode Thread Group 1-2" dt="text" by="3767"/>
+<httpSample t="41" lt="41" ts="1468389418209" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-2" dt="text" by="938"/>
+<httpSample t="577" lt="577" ts="1468389418251" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-2" dt="text" by="719"/>
+<httpSample t="19" lt="19" ts="1468389418828" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-2" dt="text" by="2175"/>
+<httpSample t="17" lt="17" ts="1468389420189" s="false" lb="GET /posts" rc="403" rm="Forbidden" tn="Typicode Thread Group 1-3" dt="text" by="3767"/>
+<httpSample t="29" lt="29" ts="1468389420209" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-3" dt="text" by="938"/>
+<httpSample t="678" lt="678" ts="1468389420238" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-3" dt="text" by="719"/>
+<httpSample t="19" lt="19" ts="1468389420917" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-3" dt="text" by="2175"/>
+<httpSample t="21" lt="21" ts="1468389422191" s="false" lb="GET /posts" rc="403" rm="Forbidden" tn="Typicode Thread Group 1-4" dt="text" by="3767"/>
+<httpSample t="60" lt="60" ts="1468389422215" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-4" dt="text" by="938"/>
+<httpSample t="697" lt="697" ts="1468389422275" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-4" dt="text" by="719"/>
+<httpSample t="15" lt="15" ts="1468389422973" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-4" dt="text" by="2182"/>
+<httpSample t="17" lt="16" ts="1468389424191" s="false" lb="GET /posts" rc="403" rm="Forbidden" tn="Typicode Thread Group 1-5" dt="text" by="3767"/>
+<httpSample t="53" lt="53" ts="1468389424211" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-5" dt="text" by="938"/>
+<httpSample t="705" lt="705" ts="1468389424265" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-5" dt="text" by="719"/>
+<httpSample t="17" lt="17" ts="1468389424971" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-5" dt="text" by="2175"/>
+<httpSample t="19" lt="17" ts="1468389426194" s="false" lb="GET /posts" rc="403" rm="Forbidden" tn="Typicode Thread Group 1-6" dt="text" by="3767"/>
+<httpSample t="28" lt="28" ts="1468389426215" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-6" dt="text" by="938"/>
+<httpSample t="785" lt="785" ts="1468389426243" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-6" dt="text" by="719"/>
+<httpSample t="22" lt="21" ts="1468389427028" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-6" dt="text" by="2175"/>
+<httpSample t="17" lt="16" ts="1468389428194" s="false" lb="GET /posts" rc="403" rm="Forbidden" tn="Typicode Thread Group 1-7" dt="text" by="3767"/>
+<httpSample t="34" lt="34" ts="1468389428214" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-7" dt="text" by="938"/>
+<httpSample t="1810" lt="1810" ts="1468389428248" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-7" dt="text" by="719"/>
+<httpSample t="38" lt="38" ts="1468389430058" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-7" dt="text" by="2175"/>
+<httpSample t="18" lt="17" ts="1468389430194" s="false" lb="GET /posts" rc="403" rm="Forbidden" tn="Typicode Thread Group 1-8" dt="text" by="3767"/>
+<httpSample t="26" lt="26" ts="1468389430215" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-8" dt="text" by="938"/>
+<httpSample t="691" lt="690" ts="1468389430242" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-8" dt="text" by="719"/>
+<httpSample t="22" lt="21" ts="1468389430933" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-8" dt="text" by="2175"/>
+<httpSample t="21" lt="21" ts="1468389432194" s="false" lb="GET /posts" rc="403" rm="Forbidden" tn="Typicode Thread Group 1-9" dt="text" by="3767"/>
+<httpSample t="29" lt="29" ts="1468389432218" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-9" dt="text" by="938"/>
+<httpSample t="681" lt="681" ts="1468389432247" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-9" dt="text" by="719"/>
+<httpSample t="19" lt="19" ts="1468389432928" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-9" dt="text" by="2175"/>
+<httpSample t="17" lt="16" ts="1468389434194" s="false" lb="GET /posts" rc="403" rm="Forbidden" tn="Typicode Thread Group 1-10" dt="text" by="3767"/>
+<httpSample t="29" lt="29" ts="1468389434213" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-10" dt="text" by="938"/>
+<httpSample t="774" lt="774" ts="1468389434243" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-10" dt="text" by="719"/>
+<httpSample t="21" lt="21" ts="1468389435018" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-10" dt="text" by="2175"/>
+
+</testResults>
