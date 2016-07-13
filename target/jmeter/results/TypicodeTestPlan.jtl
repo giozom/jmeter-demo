@@ -1,139 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testResults version="1.2">
-<httpSample t="107" it="0" lt="102" ts="1468451627279" s="true" lb="GET /posts" rc="200" rm="OK" tn="Typicode Thread Group 1-1" dt="text" by="28187" ng="1" na="1">
+<httpSample t="106" it="0" lt="97" ts="1468453723646" s="true" lb="GET /posts" rc="200" rm="OK" tn="Typicode Thread Group 1-1" dt="text" by="28187" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="18" it="0" lt="18" ts="1468451627393" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-1" dt="text" by="938" ng="1" na="1">
+<httpSample t="17" it="0" lt="17" ts="1468453723759" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-1" dt="text" by="938" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="724" it="0" lt="724" ts="1468451627413" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-1" dt="text" by="719" ng="1" na="1">
+<httpSample t="754" it="0" lt="754" ts="1468453723777" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-1" dt="text" by="719" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="18" it="0" lt="18" ts="1468451628138" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-1" dt="text" by="2175" ng="1" na="1">
+<httpSample t="16" it="0" lt="16" ts="1468453724532" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-1" dt="text" by="2182" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="54" it="0" lt="35" ts="1468451629233" s="true" lb="GET /posts" rc="200" rm="OK" tn="Typicode Thread Group 1-2" dt="text" by="28187" ng="1" na="1">
+<httpSample t="112" it="0" lt="93" ts="1468453725599" s="true" lb="GET /posts" rc="200" rm="OK" tn="Typicode Thread Group 1-2" dt="text" by="28187" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="155" it="0" lt="155" ts="1468451629288" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-2" dt="text" by="938" ng="1" na="1">
+<httpSample t="17" it="0" lt="16" ts="1468453725712" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-2" dt="text" by="938" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="478" it="0" lt="478" ts="1468451629444" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-2" dt="text" by="719" ng="1" na="1">
+<httpSample t="489" it="0" lt="489" ts="1468453725729" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-2" dt="text" by="719" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="21" it="0" lt="19" ts="1468451629923" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-2" dt="text" by="2182" ng="1" na="1">
+<httpSample t="18" it="0" lt="18" ts="1468453726219" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-2" dt="text" by="2175" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="51" it="0" lt="33" ts="1468451631236" s="true" lb="GET /posts" rc="200" rm="OK" tn="Typicode Thread Group 1-3" dt="text" by="28187" ng="1" na="1">
+<httpSample t="53" it="0" lt="35" ts="1468453727603" s="true" lb="GET /posts" rc="200" rm="OK" tn="Typicode Thread Group 1-3" dt="text" by="28187" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="20" it="0" lt="20" ts="1468451631288" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-3" dt="text" by="938" ng="1" na="1">
+<httpSample t="16" it="0" lt="16" ts="1468453727657" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-3" dt="text" by="938" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="464" it="0" lt="464" ts="1468451631310" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-3" dt="text" by="719" ng="1" na="1">
+<httpSample t="735" it="0" lt="735" ts="1468453727674" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-3" dt="text" by="719" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="18" it="0" lt="18" ts="1468451631777" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-3" dt="text" by="2175" ng="1" na="1">
+<httpSample t="21" it="0" lt="18" ts="1468453728410" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-3" dt="text" by="2175" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="56" it="0" lt="36" ts="1468451633236" s="true" lb="GET /posts" rc="200" rm="OK" tn="Typicode Thread Group 1-4" dt="text" by="28187" ng="1" na="1">
+<httpSample t="51" it="0" lt="32" ts="1468453729602" s="true" lb="GET /posts" rc="200" rm="OK" tn="Typicode Thread Group 1-4" dt="text" by="28187" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="16" it="0" lt="16" ts="1468451633293" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-4" dt="text" by="938" ng="1" na="1">
+<httpSample t="17" it="0" lt="17" ts="1468453729654" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-4" dt="text" by="938" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="585" it="0" lt="585" ts="1468451633310" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-4" dt="text" by="719" ng="1" na="1">
+<httpSample t="857" it="0" lt="857" ts="1468453729672" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-4" dt="text" by="719" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="18" it="0" lt="18" ts="1468451633897" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-4" dt="text" by="2182" ng="1" na="1">
+<httpSample t="30" it="0" lt="30" ts="1468453730530" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-4" dt="text" by="2175" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="57" it="0" lt="40" ts="1468451635239" s="true" lb="GET /posts" rc="200" rm="OK" tn="Typicode Thread Group 1-5" dt="text" by="28187" ng="1" na="1">
+<httpSample t="53" it="0" lt="37" ts="1468453731603" s="true" lb="GET /posts" rc="200" rm="OK" tn="Typicode Thread Group 1-5" dt="text" by="28187" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="18" it="0" lt="18" ts="1468451635297" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-5" dt="text" by="938" ng="1" na="1">
+<httpSample t="17" it="0" lt="17" ts="1468453731657" s="true" lb="GET /posts/1" rc="200" rm="OK" tn="Typicode Thread Group 1-5" dt="text" by="938" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="878" it="0" lt="877" ts="1468451635316" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-5" dt="text" by="719" ng="1" na="1">
+<httpSample t="708" it="0" lt="707" ts="1468453731675" s="true" lb="POST /posts" rc="201" rm="Created" tn="Typicode Thread Group 1-5" dt="text" by="719" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="17" it="0" lt="17" ts="1468451636194" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-5" dt="text" by="2182" ng="1" na="1">
+<httpSample t="24" it="0" lt="24" ts="1468453732383" s="true" lb="GET /posts/1/comments" rc="200" rm="OK" tn="Typicode Thread Group 1-5" dt="text" by="2175" ng="1" na="1">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
