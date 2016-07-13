@@ -2,45 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b4f6de0-fa0d-4980-81be-9f10e4806777" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/example/App.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/example/AppTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/jmeter2/Google.jmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/example/App.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter-demo-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/bin/global.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/bin/jmeter.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/bin/saveservice.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/bin/system.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/bin/upgrade.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/bin/user.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/jmeter-logs/Google.jmx.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/lib/ext/ApacheJMeter_components-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/lib/ext/ApacheJMeter_config-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/lib/ext/ApacheJMeter_core-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/lib/ext/ApacheJMeter_ftp-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/lib/ext/ApacheJMeter_functions-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/lib/ext/ApacheJMeter_http-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/lib/ext/ApacheJMeter_java-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/lib/ext/ApacheJMeter_jdbc-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/lib/ext/ApacheJMeter_jms-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/lib/ext/ApacheJMeter_junit-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/lib/ext/ApacheJMeter_ldap-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/lib/ext/ApacheJMeter_mail-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/lib/ext/ApacheJMeter_monitors-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/lib/ext/ApacheJMeter_report-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/lib/ext/ApacheJMeter_tcp-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/report/Google-160701.jtl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/report/Google-160701.jtl-report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/report/collapse.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jmeter/report/expand.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.AppTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/com.example.AppTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/example/AppTest.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jmeter-demo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/jmeter-demo-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jmeter/bin/global.properties" afterPath="$PROJECT_DIR$/target/jmeter/bin/global.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jmeter/bin/jmeter.properties" afterPath="$PROJECT_DIR$/target/jmeter/bin/jmeter.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jmeter/bin/saveservice.properties" afterPath="$PROJECT_DIR$/target/jmeter/bin/saveservice.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jmeter/bin/system.properties" afterPath="$PROJECT_DIR$/target/jmeter/bin/system.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jmeter/bin/upgrade.properties" afterPath="$PROJECT_DIR$/target/jmeter/bin/upgrade.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jmeter/bin/user.properties" afterPath="$PROJECT_DIR$/target/jmeter/bin/user.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jmeter/jmeter-logs/TypicodeTestPlan.jmx.log" afterPath="$PROJECT_DIR$/target/jmeter/jmeter-logs/TypicodeTestPlan.jmx.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jmeter/report/TypicodeTestPlan.jtl" afterPath="$PROJECT_DIR$/target/jmeter/report/TypicodeTestPlan.jtl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jmeter/report/TypicodeTestPlan.jtl-report.html" afterPath="$PROJECT_DIR$/target/jmeter/report/TypicodeTestPlan.jtl-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="jmeter-demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -765,12 +737,12 @@
       <option name="presentableId" value="Default" />
       <updated>1468388960241</updated>
       <workItem from="1468388961472" duration="18000" />
-      <workItem from="1468388982895" duration="436000" />
+      <workItem from="1468388982895" duration="519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="454000" />
+    <option name="totallyTimeSpent" value="537000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="37" y="23" width="1403" height="877" extended-state="6" />
@@ -783,7 +755,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299045" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32909784" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909784" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
